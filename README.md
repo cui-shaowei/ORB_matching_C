@@ -4,23 +4,6 @@ The basic framework refers to https://github.com/chenpeikai/sift.
 # Created by SwChui on 2019/1/10.
 #Copyright © 2019年 SwChui. All rights reserved.
 
-运行步骤：
-1. 打开终端
-2. 运行./ORB_Matching指令即可在运行目录下生成orbmatching_results.bmp
-3. 打开orbmatching_results.bmp查看ORB特征点及匹配结果
-
-相关文件说明：
-1. 1.bmp和2.bmp为输入图片
-2. reference.bmp为参考运行结果图片
-3. ORB_Mathcing为编译生成运行文件
-4. 压缩文件为项目源码
-
-代码编译运行步骤：
-1. 如需编译调试代码，请将压缩文件解压
-2. 请使用Xcode打开ORB_Matching.xcodeproj文件
-3. 请将1.bmp及2.bmp拷贝至x打开项目debug目录下（右键左栏project下结果文件，打开所在目录）
-4. 点击编译即可在debug目录下生成运行结果图片
-
 Operation steps:
 1. Open the terminal
 2. Running ./ORB_Matching command can generate orbmatching_results.bmp in the run directory
